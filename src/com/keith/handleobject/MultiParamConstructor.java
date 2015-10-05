@@ -59,6 +59,7 @@ class Method3 {
     //required
     private final int var1;
     private final int var2;
+    private int i = 0;
 
     //optional
     private final int var3;
